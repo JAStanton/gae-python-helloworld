@@ -1,6 +1,4 @@
-# NOTE: Unless you are chrsmith, you probably will want to
-# change this App ID.
-application: first-vision-634
+application: bamboo-antler-669
 
 version: 1
 runtime: python27
